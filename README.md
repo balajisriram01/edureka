@@ -1,2 +1,0 @@
-# edureka
-Created with CodeSandbox
